@@ -4,5 +4,5 @@ React app that queries and displays articles from the New York Times based on us
 
 View the project live on Heroku:
 
-[https://react-is-awesome.herokuapp.com/] (https://react-is-awesome.herokuapp.com/)
+https://react-is-awesome.herokuapp.com/
 
